@@ -1,7 +1,7 @@
 # IMDB_Review_Predictor_Prithviraj_G
 MIC Recruitment Project
 
-This project is my take on sentiment analysis using the IMDB movie reviews dataset. I thought of a simple intuitive method of counting the number of positive and negative words in a review and calculated weight for one positive and one negative word. This allowed for nearly 80 percent accuracy while I do think much better results can be acheived if I had used other vectorisation methods which I didn't due to time constraints.
+Hi I am Prithviraj G (25BEC1227), a first year student with real passion for ML and this project is my take on sentiment analysis using the IMDB movie reviews dataset. I thought of a simple intuitive method of counting the number of positive and negative words in a review and calculated weight for one positive and one negative word. This allowed for nearly 80 percent accuracy while I do think much better results can be acheived if I had used other vectorisation methods which I didn't due to time constraints.
 
 What I did:
   • I cleaned the data set by removing empty reviews, html markups, made everything lower case.
